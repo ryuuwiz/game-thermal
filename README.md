@@ -11,3 +11,8 @@ Launch game with throttlestop.
 3. Add new game
 4. Create a shortcut (optional)
 5. Launch game
+
+## Compile to exe
+```
+pyinstaller --noconfirm --onefile --windowed game_launcher.py
+```
