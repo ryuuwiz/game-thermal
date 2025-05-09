@@ -5,3 +5,9 @@ Launch game with throttlestop.
 - Add new game to the list
 - Create shortcut
 
+## How to run
+1. Make sure ThrottleStop path ``` C:\ThrottleStop\ThrottleStop.exe ```
+2. Open as administrator
+3. Add new game
+4. Create a shortcut (optional)
+5. Launch game
