@@ -16,3 +16,5 @@ Launch game with throttlestop.
 ```
 pyinstaller --noconfirm --onefile --windowed game_launcher.py
 ```
+## Links
+- [Download ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/)
